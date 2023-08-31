@@ -13,4 +13,6 @@ This should crawl the website and recreate discovered structure where the script
 python3 public_bybit_scrapper.py
 ```
 
-Logs will output to a specific log file and to your terminal. The process is currently time consuming, so please be patient. Ideas to improve the script are welcome.
+* Logs will output to a specific log file and to your terminal. The process is currently time consuming, so please be patient. Ideas to improve the script are welcome.
+
+* Rerunning the script should only pull new data (that isn't already locally present in the result folder).
