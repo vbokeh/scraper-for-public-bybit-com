@@ -2,6 +2,7 @@
 
 - [ ] Create Makefile to init/clean venv
 - [ ] Add a command to recursively unzip the fetched data
+- [ ] Implement exponential backoff for retries
 
 ## Nice to have
 - [ ] Try using `requests.Session()` to see if the process is more efficient with it.
